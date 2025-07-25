@@ -1,10 +1,10 @@
-¡Adivinando Cuántas Empanadas Vendemos con Machine Learning! 🥟
+¡Prediciendo Cuántas Empanadas Vendemos con Machine Learning! 
 
 En el mundo de las empanadas, cada día es una aventura. Queremos que la gente venga a nuestra casa a disfrutar de las mejores, pero a veces es un quilombo saber cuántas preparar. ¿Nos quedamos cortos y decepcionamos a la gente? ¿O nos pasamos y terminan sobrando? ¡Ese es el gran dilema!
 
 Para ponerle fin a este misterio y optimizar nuestra producción, me puse las pilas y armé un proyecto de Machine Learning. La idea es que nos ayude a predecir la cantidad de empanadas que vamos a vender cada día. ¡Imaginate, no más desperdicio ni clientes con ganas de más!
 
-🚀 ¿De qué va la cosa?
+ ¿De qué va la cosa?
 
 Este proyecto es como mi "receta secreta" para entender mejor nuestro negocio y anticiparme a lo que se viene. Acá te cuento los pasos que seguimos:
 
